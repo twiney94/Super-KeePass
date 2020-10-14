@@ -1,0 +1,48 @@
+
+body{
+    margin: 0;
+    top: 0;
+    bottom: 0;
+    background-color: lightgrey;
+}
+
+.first{
+    display: flex;
+    position: relative;
+    left: 0;
+    right: 0;
+    height: 10vh;
+    background-color: dodgerblue;
+    text-align: center;
+}
+
+.subfirst{
+    margin: auto;
+    position: center;
+    font-size: 7vh;
+    color: aliceblue;
+}
+
+.text-container{
+    margin: 0 20vw 0 20vw;
+    font-size: 1em;
+    text-align: center;
+}
+
+#footer{
+    display: flex;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 5vh;
+    background-color: dodgerblue;
+    text-align: center;
+}
+
+#footer-text{
+    margin: auto;
+    position: center;
+    font-size: 2vh;
+    color: aliceblue;
+}
