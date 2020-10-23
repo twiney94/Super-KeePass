@@ -3,9 +3,17 @@
   --input-padding-y: .75rem;
 }
 
+.emelineflower {
+  border-style: none;
+  position: absolute;
+  margin-top: 350px;
+  left: -100px;
+  overflow: unset;
+}
+
 body {
-  background: #007bff;
-  background: linear-gradient(to right, #0062E6, #33AEFF);
+  background: hotpink;
+  background: linear-gradient(to right, hotpink, lightpink);
 }
 
 .card-signin {
@@ -29,6 +37,8 @@ body {
 }
 
 .form-signin .btn {
+  background-color: lavenderblush;
+  color: black;
   font-size: 80%;
   border-radius: 5rem;
   letter-spacing: .1rem;
