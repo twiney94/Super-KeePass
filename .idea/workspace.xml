@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="41288a5e-36f7-4c15-8bc4-2b9acb72649f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressources/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/ressources/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressources/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/ressources/css/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="4068dccc-7cf0-445b-bdba-8b3cb111b789" />
+  <component name="ProjectId" id="1jIFUZJRoJFTnkDmaQhqaDcGsX6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Super-KeePass" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/pythonProject/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41288a5e-36f7-4c15-8bc4-2b9acb72649f" name="Default Changelist" comment="" />
+      <created>1603483717719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603483717719</updated>
+      <workItem from="1603483721487" duration="3494000" />
+      <workItem from="1603488815703" duration="311000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="437" y="247" width="434" height="487" key="FileChooserDialogImpl" timestamp="1603483992401">
+      <screen x="0" y="31" width="1440" height="869" />
+    </state>
+    <state x="437" y="247" width="434" height="487" key="FileChooserDialogImpl/0.31.1440.869@0.31.1440.869" timestamp="1603483992401" />
+    <state width="697" height="218" key="GridCell.Tab.0.bottom" timestamp="1603487009512">
+      <screen x="0" y="31" width="1440" height="869" />
+    </state>
+    <state width="697" height="218" key="GridCell.Tab.0.bottom/0.31.1440.869@0.31.1440.869" timestamp="1603487009512" />
+    <state width="697" height="218" key="GridCell.Tab.0.center" timestamp="1603487009509">
+      <screen x="0" y="31" width="1440" height="869" />
+    </state>
+    <state width="697" height="218" key="GridCell.Tab.0.center/0.31.1440.869@0.31.1440.869" timestamp="1603487009509" />
+    <state width="697" height="218" key="GridCell.Tab.0.left" timestamp="1603487009508">
+      <screen x="0" y="31" width="1440" height="869" />
+    </state>
+    <state width="697" height="218" key="GridCell.Tab.0.left/0.31.1440.869@0.31.1440.869" timestamp="1603487009508" />
+    <state width="697" height="218" key="GridCell.Tab.0.right" timestamp="1603487009510">
+      <screen x="0" y="31" width="1440" height="869" />
+    </state>
+    <state width="697" height="218" key="GridCell.Tab.0.right/0.31.1440.869@0.31.1440.869" timestamp="1603487009510" />
+    <state x="143" y="121" width="1022" height="733" key="SettingsEditor" timestamp="1603484100016">
+      <screen x="0" y="31" width="1440" height="869" />
+    </state>
+    <state x="143" y="121" width="1022" height="733" key="SettingsEditor/0.31.1440.869@0.31.1440.869" timestamp="1603484100016" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Super_KeePass$main.coverage" NAME="main Coverage Results" MODIFIED="1603489133093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
